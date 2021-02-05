@@ -1,0 +1,3 @@
+/home/shadaab/Downloads/peka/cmake_practice/more_practice/build/CMakeFiles/rebuild_cache.dir
+/home/shadaab/Downloads/peka/cmake_practice/more_practice/build/CMakeFiles/edit_cache.dir
+/home/shadaab/Downloads/peka/cmake_practice/more_practice/build/CMakeFiles/testStudent.dir
